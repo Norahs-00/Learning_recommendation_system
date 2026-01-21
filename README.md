@@ -1,11 +1,11 @@
-📚 Learning Recommendation System
+# 📚 Learning Recommendation System
 
- 🔍 Project Overview
-The Learning Recommendation System is an Artificial Intelligence–based application designed to help learners select relevant online courses from large learning platforms such as Coursera.  
-Due to the rapid growth of online education, learners often face **information overload and difficulty choosing suitable courses.  
+## 🔍 Project Overview
+The **Learning Recommendation System** is an Artificial Intelligence–based application designed to help learners select relevant online courses from large learning platforms such as Coursera.  
+Due to the rapid growth of online education, learners often face **information overload** and difficulty choosing suitable courses.  
 This project applies **Machine Learning techniques** to provide **personalized and intelligent course recommendations**.
 
-
+---
 
 ## 🎯 Objectives
 - Reduce information overload for online learners  
